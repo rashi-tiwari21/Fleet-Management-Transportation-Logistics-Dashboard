@@ -6,20 +6,20 @@ This repository contains an MS Excel-based dashboard designed for managing fleet
 ![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Fleet%20Management%20Dashboard%20page%202.png)
 
 **Features :** 
-Real-Time Data: Provides up-to-date information on fleet operations.
+◾Real-Time Data: Provides up-to-date information on fleet operations.
 
-Dynamic Visualizations: Includes bar graphs, pie charts, and trend indicators to monitor key metrics.
+◾Dynamic Visualizations: Includes bar graphs, pie charts, and trend indicators to monitor key metrics.
 
-Driver Performance Analysis: Offers insights into driver performance and trip classifications.
+◾Driver Performance Analysis: Offers insights into driver performance and trip classifications.
 
-Expense Tracking: Tracks expenses by month and provides detailed breakdowns.
+◾Expense Tracking: Tracks expenses by month and provides detailed breakdowns.
 
 **Insights :** 
 
-Total Trips: Monitors the number of trips completed, with a breakdown by month.
+◾Total Trips: Monitors the number of trips completed, with a breakdown by month.
 
-Income and Expenses: Visualizes income and expenses to help manage financial performance.
+◾Income and Expenses: Visualizes income and expenses to help manage financial performance.
 
-Driver and Vehicle Performance: Analyzes driver performance and vehicle usage to optimize operations.
+◾Driver and Vehicle Performance: Analyzes driver performance and vehicle usage to optimize operations.
 
-Compliance with New Truck Driving Laws: Highlights new regulations and their impact on fleet operations.
+◾Compliance with New Truck Driving Laws: Highlights new regulations and their impact on fleet operations.
