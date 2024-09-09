@@ -5,9 +5,6 @@ This repository contains an MS Excel-based dashboard designed for managing fleet
 ![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Screenshot%202024-09-09%20205414.png)
 ![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Screenshot%202024-09-09%20205453.png)
 
-https://github.com/rashi-tiwari21/Fleet-Management-Transportation-Logistics-Dashboard/blob/main/Screenshot%202024-09-09%20205414.png
-https://github.com/rashi-tiwari21/Fleet-Management-Transportation-Logistics-Dashboard/blob/main/Screenshot%202024-09-09%20205453.png
-
 **Features :** 
 Real-Time Data: Provides up-to-date information on fleet operations.
 
