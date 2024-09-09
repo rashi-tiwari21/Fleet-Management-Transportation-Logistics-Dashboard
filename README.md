@@ -1,11 +1,14 @@
 # Fleet-Management-Transportation-Logistics-Dashboard
 This repository contains an MS Excel-based dashboard designed for managing fleet operations in the transportation and logistics sector. The dashboard provides real-time insights into key metrics such as total trips, expenses, income, and driver performance. It utilizes Power Query for data transformation and includes dynamic visualizations to optimize fleet management and improve operational efficiency.
 
-# Dashboard Preview:
+**Dashboard Preview**:
+![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Screenshot%202024-09-09%20205414.png)
+![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/Screenshot%202024-09-09%20205453.png)
+
 https://github.com/rashi-tiwari21/Fleet-Management-Transportation-Logistics-Dashboard/blob/main/Screenshot%202024-09-09%20205414.png
 https://github.com/rashi-tiwari21/Fleet-Management-Transportation-Logistics-Dashboard/blob/main/Screenshot%202024-09-09%20205453.png
 
-# Features :
+**Features :** 
 Real-Time Data: Provides up-to-date information on fleet operations.
 
 Dynamic Visualizations: Includes bar graphs, pie charts, and trend indicators to monitor key metrics.
@@ -14,7 +17,7 @@ Driver Performance Analysis: Offers insights into driver performance and trip cl
 
 Expense Tracking: Tracks expenses by month and provides detailed breakdowns.
 
-# Insights :
+**Insights :** 
 
 Total Trips: Monitors the number of trips completed, with a breakdown by month.
 
